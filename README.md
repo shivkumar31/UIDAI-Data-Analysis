@@ -1,7 +1,7 @@
 # UIDAI: Smart Resource Allocation & Anomaly Detection System
 
 
-> **Hackathon Submission 2026** | **Theme:** Data-Driven Innovation for Aadhaar
+
 
 A data analytics and machine learning dashboard designed to optimize resource allocation across 1,100+ Aadhaar districts and detect operational anomalies using a hybrid AI approach.
 
